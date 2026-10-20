@@ -8,7 +8,8 @@ Built with **Excel, Power Pivot, DAX, PivotTables, PivotCharts, and slicers**, t
 
 ### 1. Patient Overview
 
-![Patient Overview dashboard](screenshots/patient_overview.png)
+
+[![Patient Overview](screenshots/Dashboard_1_Patient_Overview.png)](screenshots/Dashboard_1_Patient_Overview.png)
 
 The **Patient Overview** page focuses on patient volume and demographics, along with core experience and attendance metrics:
 
