@@ -9,7 +9,8 @@ Built with **Excel, Power Pivot, DAX, PivotTables, PivotCharts, and slicers**, t
 ### 1. Patient Overview
 
 
-[![Patient Overview]("C:\Users\123\Pictures\Screenshots\Patient Overview.png")]
+<img width="668" height="269" alt="patient_overview" src="https://github.com/user-attachments/assets/cb7b567b-1070-486f-aebe-71aead921700" />
+
 
 The **Patient Overview** page focuses on patient volume and demographics, along with core experience and attendance metrics:
 
@@ -22,7 +23,7 @@ The **Patient Overview** page focuses on patient volume and demographics, along 
 
 ### 2. Operations & Performance
 
-![Operations and Performance dashboard]("C:\Users\123\Pictures\Screenshots\Patient Overview.png")
+<img width="517" height="404" alt="operations_performance" src="https://github.com/user-attachments/assets/900e8098-13ed-4d96-bd42-d08cbc43acbb" />
 
 The **Operations & Performance** page explores patterns that may help guide staffing and service improvement:
 
